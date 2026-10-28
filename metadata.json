@@ -1,0 +1,8 @@
+{
+  "name": "Starline \u2014 Cosmic Party Game",
+  "description": "Starline is a 2–15 player, same-device party game. Pass the phone, connect up to 69 numbered stars with neon lines, and survive a dare when two players collide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
